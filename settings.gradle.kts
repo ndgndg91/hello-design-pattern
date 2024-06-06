@@ -12,3 +12,4 @@ plugins {
 
 rootProject.name = "hello-design-pattern"
 include("chapter-1-composition")
+include("chapter-2-observer")
