@@ -13,3 +13,4 @@ plugins {
 rootProject.name = "hello-design-pattern"
 include("chapter-1-strategy")
 include("chapter-2-observer")
+include("chapter-3-decorator")
