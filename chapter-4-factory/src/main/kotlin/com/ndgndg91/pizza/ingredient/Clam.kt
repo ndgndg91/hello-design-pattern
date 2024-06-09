@@ -1,0 +1,4 @@
+package com.ndgndg91.pizza.ingredient
+
+open class Clam {
+}
